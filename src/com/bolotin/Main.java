@@ -15,5 +15,11 @@ public class Main {
 
         fullSobr.setYearPublishing(2021);
         System.out.println(fullSobr.getName() + " " + fullSobr.getAuthorName().getName() + " " + fullSobr.getAuthorName().getSurname() + " " + fullSobr.getYearPublishing());
+//        задание к уроку 1.10 "методы объектов"
+        System.out.println();
+        System.out.println("задание к уроку 1.10 \"методы объектов\"");
+        System.out.println(FedorDost);
+        System.out.println(idiot);
+
     }
 }
